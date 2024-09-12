@@ -20,7 +20,7 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Laravel](https://img.shields.io/badge/-Postman-333333?style=flat&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 
 **DevOps**
 
